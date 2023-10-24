@@ -1,10 +1,10 @@
 <h1>Hi, I'm Bashshar! Passionate Cybersecurity Analyst</h1>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet](https://github.com/bconway1906/Azure-SOC-Honeynet)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳🏾 Connect with me:</h2>
 
 [<img align="left" alt="BashsharConway | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
