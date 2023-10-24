@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bashshar! Passionate Cybersecurity Analyst</h1>
+<h1>Hi, I'm Bashshar! Passionate Cybersecurity Professional</h1>
 <h2>👨🏾‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
