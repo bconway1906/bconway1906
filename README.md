@@ -20,13 +20,8 @@
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet](https://github.com/bconway1906/CLOUD-SOC-HONEYNET)
 
-<h2> 🤳🏾 Connect with me:</h2>
+MORE THINGS TO COME!!!
 
-[<img align="left" alt="BashsharConway | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: [https](https://www.linkedin.com/in/bashshar-c-257755267/)://linkedin.com/in/joshmadakor
-
-<!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
