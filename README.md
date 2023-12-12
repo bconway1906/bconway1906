@@ -22,8 +22,8 @@ Here are some of the technologies and tools I work with:
 I enjoy working on a variety of projects. Here are a few highlights:
 
 1. [Project 1](https://github.com/bconway1906/CLOUD-SOC-HONEYNET): Creating a Live SOC
-2. [Project 2](link-to-project-2): Brief description.
-3. [Project 3](link-to-project-3): Brief description.
+
+Current working on a few AWS projects. Will update soon!
 
 ## Connect with Me
 
