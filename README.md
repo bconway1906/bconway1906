@@ -30,6 +30,7 @@ Here are some of the technologies and tools I work with:
 I enjoy working on a variety of projects. Here are a few highlights:
 
 1. [Project 1](https://github.com/bconway1906/CLOUD-SOC-HONEYNET): Creating a Live SOC
+2. [Project 2](https://github.com/bconway1906/Host-HTML-Website-on-AWS): How to Host a HTML Website on AWS
 
 Current working on a few AWS projects. Will update soon!
 
@@ -40,7 +41,7 @@ Current working on a few AWS projects. Will update soon!
 
 ## Fun Facts
 
-- 🎸 In my free time, I love watching anime and listening to music.
+- 🎸 In my free time, I LOVE watching anime and listening to music.
 - 📚 I'm currently reading Atomic Habits.
 - 🎨 Fun fact: I am a HUGE Mary J. Blige fan!
 
