@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm Bashshar Conway, a passionate Cloud Engineer a
 ## Certifications
 
 - 🏆 AWS Certified Solutions Architect
-- 🏆 AWS Certified CloudFormation Developer
+- 🏆 AWS Certified Cloud Practitioner
 - 🏆 Google Project Management Certificate
 - 🏆 Google Cybersecurity Certificate
 - 🏆 CompTIA Security+ (Expected by March 2024)
