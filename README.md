@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-Welcome to my GitHub profile! I'm Bashshar Conway, a passionate Cloud Engineer and Cybersecurity Professional from Washington, DC. 
+Welcome to my GitHub profile! I'm Bashshar Conway, a passionate Cloud Engineer from Washington, DC. 
 
 ## About Me
 
