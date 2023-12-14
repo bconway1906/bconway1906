@@ -30,7 +30,7 @@ Here are some of the technologies and tools I work with:
 I enjoy working on a variety of projects. Here are a few highlights:
 
 1. [Project 1](https://github.com/bconway1906/CLOUD-SOC-HONEYNET): Creating a Live SOC
-2. [Project 2](https://github.com/bconway1906/Host-HTML-Website-on-AWS): How to Host a HTML Website on AWS
+2. [Project 2](https://github.com/bconway1906/Host-HTML-Website-on-AWS): Deploying a Three-Tier AWS Architecture for a Static Website
 
 Currently working on a few AWS projects. Will update soon!
 
