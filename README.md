@@ -45,4 +45,4 @@ Current working on a few AWS projects. Will update soon!
 - 📚 I'm currently reading Atomic Habits.
 - 🎨 Fun fact: I am a HUGE Mary J. Blige fan!
 
-Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out. Let's code something amazing together! 🚀
+Thanks for stopping by! 
