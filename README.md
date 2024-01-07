@@ -24,6 +24,14 @@ Here are some of the technologies and tools I work with:
 - 🖥️ AWS
 - 🛠️ Azure
 - ⚙️ Jira
+- Terraform
+- Docker
+- Git
+- Github
+- Visual Studio
+- Slack
+- Ansible
+- AWS CLI
 
 ## Projects
 
