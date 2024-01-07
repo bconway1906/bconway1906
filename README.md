@@ -44,8 +44,8 @@ Currently working on a few AWS projects. Will update soon!
 
 ## Connect with Me
 
-- 📫 You can reach me via [Email](bashsharc@outlook.com).
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/bashshar-c-257755267/).
+- 📫 You can reach me via [Email](bconway1906@outlook.com).
+- 🔗 Connect with me on [LinkedIn]().
 
 ## Fun Facts
 
