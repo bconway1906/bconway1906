@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm a passionate Cloud Engineer from Washington, D
 
 Here are some of the technologies and tools I work with:
 
-- 🖥️ AWS
-- 🛠️ Azure
-- ⚙️ Jira
+- AWS
+- Azure
+- Jira
 - Terraform
 - Docker
 - Git
