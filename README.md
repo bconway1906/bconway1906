@@ -40,7 +40,7 @@ I enjoy working on a variety of projects. Here are a few highlights:
 1. [Project 1](https://github.com/bconway1906/CLOUD-SOC-HONEYNET): Creating a Live SOC
 2. [Project 2](https://github.com/bconway1906/Host-HTML-Website-on-AWS): Deploying a Three-Tier AWS Architecture for a Static Website
 3. [Project 3](https://github.com/bconway1906/Deploy-WordPress-Website-on-AWS): Deploy a WordPress Website on AWS
-4. [Project 4](): Deploy a Static Website on AWS with Docker, Amazon ECR, & Amazon ECS
+4. [Project 4](https://github.com/bconway1906/Host-Website-on-AWS-using-CloudFormation-Docker-Amazon-ECR-and-Amazon-ECS): Deploy a Static Website on AWS with Docker, Amazon ECR, & Amazon ECS
 5. [Project 6](): Host a Dynamic Web App on AWS using Docker, Amazon ECR, and Amazon ECS
 6. [Project 7](): Host a Dynamic Ecommerce Website on AWS with Terraform
 
