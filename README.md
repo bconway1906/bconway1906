@@ -46,12 +46,6 @@ Currently working on a few AWS projects. Will update soon!
 
 ## Connect with Me
 
-- 📫 You can reach me via [Email](bconway1906@outlook.com).
-
-## Fun Facts
-
-- 🎸 In my free time, I LOVE watching anime and listening to music.
-- 📚 I'm currently reading Atomic Habits.
-- 🎨 Fun fact: I am a HUGE Mary J. Blige fan!
+- 📫 You can reach me via [Email](bashsharc@outlook.com).
 
 Thanks for stopping by! 
