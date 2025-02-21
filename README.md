@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hello! 👋
 
 Welcome to my GitHub profile! I'm a passionate Cloud Engineer from Washington, DC. 
 
