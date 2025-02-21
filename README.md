@@ -44,8 +44,3 @@ I enjoy working on a variety of projects. Here are a few highlights:
 
 Currently working on a few AWS projects. Will update soon!
 
-## Connect with Me
-
-- 📫 You can reach me via [Email](bashsharc@outlook.com).
-
-Thanks for stopping by! 
