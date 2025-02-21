@@ -31,6 +31,7 @@ Here are some of the technologies and tools I work with:
 - Slack
 - Ansible
 - AWS CLI
+- Jenkins
 
 ## Projects
 
@@ -40,8 +41,6 @@ I enjoy working on a variety of projects. Here are a few highlights:
 2. [Project 2](https://github.com/bconway1906/Static-Website-AWS): Deploying a Three-Tier AWS Architecture for a Static Website
 3. [Project 3](https://github.com/bconway1906/Deploy-WordPress-Website-on-AWS): Deploy a WordPress Website on AWS
 4. [Project 4](https://github.com/bconway1906/Host-Website-on-AWS-using-CloudFormation-Docker-Amazon-ECR-and-Amazon-ECS): Deploy a Static Website on AWS with Cloud Formation, Docker, Amazon ECR, & Amazon ECS
-5. [Project 5](): 
-6. [Project 6](): 
 
 Currently working on a few AWS projects. Will update soon!
 
