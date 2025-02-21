@@ -13,9 +13,8 @@ Welcome to my GitHub profile! I'm a passionate Cloud Engineer from Washington, D
 
 - 🏆 AWS Certified Solutions Architect
 - 🏆 AWS Certified Cloud Practitioner
-- 🏆 Google Project Management Certificate
-- 🏆 Google Cybersecurity Certificate
-- 🏆 CompTIA Security+ (Expected by March 2024)
+- 🏆 CompTIA Security+
+- 🏆 AWS Certified Developer (Expected March 2025)
 
 ## Technologies & Tools
 
