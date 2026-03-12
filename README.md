@@ -12,10 +12,9 @@ Welcome to my GitHub profile! I'm a passionate Cloud Engineer from Washington, D
 ## Certifications
 
 - 🏆 AWS Certified Solutions Architect
-- 🏆 AWS Certified Cloud Practitioner
 - 🏆 CompTIA Security+
-- 🏆 AWS Certified Developer
-
+- 🏆 AWS Security Specialty (In Progress)
+- 
 ## Technologies & Tools
 
 Here are some of the technologies and tools I work with:
