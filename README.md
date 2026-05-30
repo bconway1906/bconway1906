@@ -13,7 +13,6 @@ clean, repeatable solutions using DevOps tools and best practices.
 
 - AWS Certified Solutions Architect – Associate
 - CompTIA Security+
-- AWS Security Specialty *(in progress)*
 
 ---
 
