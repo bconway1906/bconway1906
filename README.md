@@ -58,7 +58,3 @@ ACM, IAM, SNS, CloudWatch)
 | — | [Live SOC + Honeynet](https://github.com/bconway1906/CLOUD-SOC-HONEYNET) | Built a live SOC in Azure with Microsoft Sentinel, honeypots, and incident response |
 
 ---
-
-## 📊 GitHub Stats
-
-![Bashshar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bconway1906&show_icons=true&theme=default&hide_border=true)
