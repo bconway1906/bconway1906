@@ -41,9 +41,9 @@ ACM, IAM, SNS, CloudWatch)
 ### Containers & CI/CD
 | # | Project | Description |
 |---|---------|-------------|
-| 5 | [Static Site with Docker + ECS](https://github.com/bconway1906/Host-Website-on-AWS-using-CloudFormation-Docker-Amazon-ECR-and-Amazon-ECS) | Containerized static site using Docker, ECR, and ECS Fargate |
-| 6 | [Dynamic Site with Docker + ECS](https://github.com/bconway1906/...) | LAMP stack PHP app containerized with Flyway DB migration and S3 env management |
-| 8 | [CI/CD Pipeline with GitHub Actions](https://github.com/bconway1906/...) | Automated build and ECS deployment pipeline triggered on every push to main |
+| 4 | [Static Site with Docker + ECS](https://github.com/bconway1906/Host-Website-on-AWS-using-CloudFormation-Docker-Amazon-ECR-and-Amazon-ECS) | Containerized static site using Docker, ECR, and ECS Fargate |
+| 5 | [Dynamic Site with Docker + ECS](https://github.com/bconway1906/...) | LAMP stack PHP app containerized with Flyway DB migration and S3 env management |
+| 6 | [CI/CD Pipeline with GitHub Actions](https://github.com/bconway1906/...) | Automated build and ECS deployment pipeline triggered on every push to main |
 
 ### Infrastructure as Code
 | # | Project | Description |
