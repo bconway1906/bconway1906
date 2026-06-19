@@ -37,7 +37,6 @@ ACM, IAM, SNS, CloudWatch)
 | 1 | [Host HTML Site on EC2](https://github.com/bconway1906/Host-HTML-Site-on-EC2) | Single EC2 instance deployment with security groups and key pairs |
 | 2 | [Static Website on AWS](https://github.com/bconway1906/Static-Website-AWS) | Three-tier architecture with S3, CloudFront, Route 53, and ACM |
 | 3 | [WordPress on AWS](https://github.com/bconway1906/Deploy-WordPress-Website-on-AWS) | Highly available WordPress deployment with RDS, EFS, ALB, and Auto Scaling |
-| 4 | [Dynamic Website on AWS](https://github.com/bconway1906/...) | Full-stack dynamic app on EC2 with RDS, ALB, and Auto Scaling across multi-AZ |
 
 ### Containers & CI/CD
 | # | Project | Description |
